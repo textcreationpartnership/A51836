@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the loyal London-apprentices against the false and scandalous aspersions of Richard Janeway in his lying mercury published June 14.</title>
+            <author>J. M., London apprentice.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51836</idno>
+            <idno type="STC">Wing M52</idno>
+            <idno type="STC">ESTC R16940</idno>
+            <idno type="EEBO-CITATION">13370239</idno>
+            <idno type="OCLC">ocm 13370239</idno>
+            <idno type="VID">99304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99304)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 465:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the loyal London-apprentices against the false and scandalous aspersions of Richard Janeway in his lying mercury published June 14.</title>
+                  <author>J. M., London apprentice.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in .</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apprentices --  England --  London.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99304:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <head>A VINDICATION Of the LOYAL London-Apprentices: Againſt the falſe and ſcandalous Aſperſions of <hi>Richard Janeway,</hi> in his <hi>Lying Mercury</hi> publiſh'd <hi>June</hi> 14.</head>
+            <argument>
+               <lg>
+                  <l>Room, Room for a Man of the Town,</l>
+                  <l>That takes delight in Thriving;</l>
+                  <l>That daily buſtles up and down,</l>
+                  <l>And nightly lies Contriving.</l>
+               </lg>
+               <lg>
+                  <l>For Printing and Inventing Lies,</l>
+                  <l>There's none that can come nigh him;</l>
+                  <l>And Loyal Youths doth ſcandalize,</l>
+                  <l>Who now in Print defie him.</l>
+               </lg>
+            </argument>
+            <p>IT is but juſt (by way of Retaliation) to fling that Dirt in his face, with which he en<g ref="char:EOLhyphen"/>deavours to beſpatter thoſe truly Loyal Apprentices, who deſerve not that Character which he ſo unworthily beſtows upon them, and indeed is moſt proper and fitting for his own Scribling Worſhip: Alas good man! he is afraid, leſt in ſhewing their Loyalty, and acknowledgments of their Soveraign's Goodneſs to all his Subjects in ge<g ref="char:EOLhyphen"/>neral, (whereof the Youth of this City are a part, and perhaps, if occaſion preſented, a very ſerviceable part) might be an ill Example (in his ſence) to the unthankful remain<g ref="char:EOLhyphen"/>ing part of his Majeſties Subjects.</p>
+            <p>But now why our <hi>Falſe News-monger</hi> ſhould make that a Crime, which is ſo univer<g ref="char:EOLhyphen"/>ſally approved of by all the Loyal <hi>Proteſtant Church of England,</hi> I know not: But I am apt to hold the ſame opinion of a great number of Judicious men, that it was a chief Fundamental of the late 41. Rebels, and is now the ſame of the preſent 81. (Vouchers of the ſame <hi>Good Old Cauſe</hi>) to repreſent to the Publick by their foul-mouth'd Trumpe<g ref="char:EOLhyphen"/>ters <hi>Janeway, Care</hi> and <hi>Curtiſs,</hi> and that in ſo horrid a ſhape, a thing ſo implicite in its real intention, that no Snake hid in the Graſs, nay nothing of ill can lye couch'd, (like your <hi>Fanatick Petitions</hi>) under ſo plain a demonſtration of our cordial Affections and Ser<g ref="char:EOLhyphen"/>vice to his moſt Gracious Majeſty, whom we beſeech God long to preſerve in his Holy keeping.</p>
+            <p>Although the <hi>Fanatick Party</hi> have been ſo forward to foreſtall the World with the ſubſtance of our Addreſs, before its preſentation, which (by the way) is a little uncivil; yet I hope his moſt Sacred Majeſty will (through his Princely goodneſs) vouchſafe us a kind reception of our Names, and therewith the Hearts and Hands, nay and in good time the Purſes of many thouſands of his well-wiſhing Youthful Subjects.</p>
+            <p>I do aſſure you, good Mr. <hi>Impartial,</hi> that we have great hopes to think his Majeſty will not be offended, to ſee and know the difference and nature of the <hi>London</hi> Youth, as to what they were in 41. when with their Noiſe and intollerable Inſolence, they forced his late Majeſty of Bleſſed memory, from his Royal Palace of <hi>Whitehull,</hi> to ſeek another among a more peaceable and civilized part of his Subjects: whereas We, in deteſtation and abhorrence of ſuch wicked Principles, ſuch Rebellious Actions, and ſuch Diabolical Examples, (a thing not at all pleaſing to your <hi>
+                  <g ref="char:V">Ʋ</g>nſanctified Palate,</hi> which we plainly ſee by the <hi>grumbling of your Gizzard</hi>) do now offer up our Lives and Fortunes to the Ser<g ref="char:EOLhyphen"/>vice of ſo gracious a Prince, under the benign Influence of whoſe happy Government, you merit not to enjoy that Liberty, Peace and Tranquility which you now poſſeſs.</p>
+            <p>And now, good Mr. <hi>Devils-Egg,</hi> for ſurely thou art but the meer Spawn of that grand <hi>Father of Lies,</hi> Monſieur <hi>Saucer-eyes,</hi> who is continually dividing and diſturbing the peace of the greater World, as thou (one of his Emiſſaries) doſt in this our little one, by ſtuffing thy <hi>Partial Mercury</hi> with deteſtable Forgeries, and Inventions of thy own, weekly diſtracting and perturbing the minds of the People with ſtrange, and New Plots, and Lies, the meer product of thy own fruitful Brain.</p>
+            <p>
+               <pb facs="tcp:99304:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 30 -->
+Hadſt thou been ſo civil to have let Us and our Addreſs paſs unregarded by thy <hi>dam<g ref="char:EOLhyphen"/>nable and malicious Pen,</hi> perhaps I had not troubled my ſelf to give thee a touch of mine. Indeed I might have ſpar'd my ſelf the labour of Characterizing thee, ſince thy own ma<g ref="char:EOLhyphen"/>lice is conſpicuous enough to every Impartial eye; thy weekly lying <hi>Mercury</hi> ſtuft with thy own non-ſenſe, folly, madneſs, does but too plainly demonſtrate to the World thy <hi>Machi<g ref="char:EOLhyphen"/>villian</hi> Principle, and <hi>be-Jeſuited</hi> Opinion; Sure thou haſt commenced Doctor at <hi>Bil<g ref="char:EOLhyphen"/>lingsgate</hi> too, or elſe thou couldſt never have been ſo expert at creating ſuch vilifying and ſcandalous Notions which thou beſtoweſt without Fear or Wit upon all thoſe who do not cohaere with thy ſchiſmatical ſentiments. I wonder how thou couldſt have the impudence to call a thing ſo modeſt, as our Addreſs is, <hi>a ſecond Part of</hi> Captain <hi>Tom,</hi> when thou thy ſelf, and every ordinary capacity, cannot but perceive it a thing of a quite contrary hue. But now pray obſerve what ſcurrilous names he faſtens upon the promo<g ref="char:EOLhyphen"/>ters of our Addreſs, nothing leſs than <hi>Chevaliers, Wiſe Acres, Pater-nos-torians,</hi> and ſuch like ſtuff, the meer froth of his own Invention; 't was well the name of the Street where the Promoters inhabit, was ſo pat to the Purpoſe to bring in a Tory or Tantivy at the end of it, or elſe it had not been worth a farthing. But then he goes on and tells you ſome unthinking Lads were wheedled and drawn in to ſign that miſchievous Paper, <hi>(Monſtrum horrendum!)</hi> without ſo much as a ſight of it themſelves, or having it read to them: this is a Swinger, and ſounds but ſo like a Phanatical Invention, that none but their own credulous Gang will believe it, and needs but little Confutation; for none ſubſcribed it, but what muſt of neceſſity ſee it, and read it, it being ſo plain upon the ſame Paper as the Noſe on a mans face, And then a little further he begins to banmter upon the Cooks and Chandlers of <hi>New-Sarum,</hi> as if none elſe had ſubſcribed it in that Town beſide them, and then adds he, 'tis no matter who hath the honour to Addreſs, that have ſo Noble and Worthy perſons as the Cooks and Chandlers of <hi>Sarum</hi> to lead the way, but this is ſo like <hi>Janeway,</hi> as if it was ſpued out of his mouth.</p>
+            <p>O but now he tickles you off with ſome State-maxims of his own, that perhaps we have done ill, by giving example to other young (Phanatical Raſcals) Lads on the contrary project of Petitioning; (and vexing his Majeſty, ſay I) indeed we heard that the old Herd of Schiſmaticks, having put ſome of their names to a Petition which was diſliked, and rejected, do threaten to procure many hands of the young fry to a new Petition, far more numerous then ours was, to affront the King to the higheſt degree of indig<g ref="char:EOLhyphen"/>nity imaginable, but the event of this time muſt ſhow. And to conclude, he tells you that the moſt who ſubſcrib'd this ſham paper as he calls it, were meer Ruffians, and begger<g ref="char:EOLhyphen"/>ly Vermine; O moſt notorious untruth, when it is very credible, that the more Gen<g ref="char:EOLhyphen"/>teeler and better ſort of young Trads-men, were the chief Subſcribers and promoters of a thing, we ſhall never have cauſe to repent, as thou falſly imagineſt by a Phanatick ſuppoſition of being made Slaves at the expiration of our Apprentiſhips, when we ex<g ref="char:EOLhyphen"/>pect to be moſt free, I am almoſt aſſured that almoſt all the now Apprentices, (maugre all thy deſigns to the contrary,) will prove for the next age a better Generation, more obedient ſubjects to the King, and kinder Neighbours to our ſelves, then many of our Maſters are at preſent; but what can any man expect from a Cat, but her skin? and what indeed can we expect from ſuch a generation of Vipers, in whoſe veins runs the ſame bloud, which from 41, to 1660 overſpread the greateſt part of this our Iſland?</p>
+            <p>Ingenuouſly did that great Wit ſpeak, when mentioning the diſtractedneſs and inhumanity of the late Rebellion, that the King of <hi>Spain</hi> was <hi>Rex Hominum,</hi> the <hi>French</hi> King <hi>Rex Aſinorum,</hi> but the King of <hi>England</hi> (to his ſorrow) was <hi>Rex Diaboloram;</hi> for ſhame therefore ceaſe your impudent Scribling in perſwading the people to Diſloyalty, ceaſe to uſe your wheedling tricks to cauſe the people to play <hi>the ſecond Part to the ſame Tune</hi> of 41: Alas we are ſenſible, you only want a daring <hi>Oliver</hi> to head the Maſter, and be your General once more; but by the way take notice that the laſt of 2 Cheats acted in one age will not take effect; And laſt of all to conclude, ceaſe to Write any more notorious falſhoods, eſpecially, againſt the Templers or Apprentices, leſt the firſt Pump you, and the laſt Thump you, or elſe break your Windows: ſo <hi>Vale, Mr. Janeway.</hi>
+            </p>
+            <byline>Written by <hi>J. M.</hi> a <hi>London-</hi>Apprentice.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
